@@ -1,5 +1,7 @@
 <h1 align="center">Selam 👋, Ben Raviwen</h1>
 
+![](https://komarev.com/ghpvc/?username=raviwen&label=PROFILE+VIEWS)
+
 <h3 align="left">Ulaşmak için:</h3>
 <p align="left">
 <a href="https://discord.gg/raviwen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raviwen" height="30" width="40" /></a>
