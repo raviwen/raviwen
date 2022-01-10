@@ -6,7 +6,7 @@
 Ekip Sunucuma Gelebilirsiniz ;
 https://discord.gg/112
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:928091512535916565)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928091512535916565?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/928091512535916565)
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
