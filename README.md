@@ -14,6 +14,8 @@ https://discord.gg/112
 
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
-
-# Tıklayarak Ulaşabilirsiniz ;
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=JaylenOzi&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+  
+## Tıklayarak Ulaşabilirsiniz ;
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928091512535916565?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/928091512535916565)
