@@ -1,13 +1,24 @@
-<h1 align="center">Selam 👋, Ben Raviwen</h1>
+# Merhabalar, Ben Raviwen
+![version :17.10.2021](https://img.shields.io/badge/version-17.10.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=raviwen&color=red)&nbsp;
+[![GitHub Raviwen](https://img.shields.io/github/followers/raviwen?label=follow&style=social)](https://github.com/raviwen)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+<a href="https://instagram.com/jaylenelchavo"><img src="https://img.shields.io/badge/@jaylenelchavo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-![](https://komarev.com/ghpvc/?username=raviwen&label=PROFILE+VIEWS)
+My Server
+https://discord.gg/1983
 
-<h3 align="left">Ulaşmak için:</h3>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/612688335944679600?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/612688335944679600)
+
+## Langauges I Know:
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+<h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
-<a href="https://discord.gg/raviwen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raviwen" height="30" width="40" /></a>
+   <img src="https://github-readme-stats.vercel.app/api?username=raviwen&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=raviwen&theme=radical" />
 </p>
-
-<h3 align="left">Bildiğim ve üzerinde çalıştığım diller:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<img alt="GIF" src="http://media.tumblr.com/79b02d2fcdafd2f8c3161854d90ae327/tumblr_inline_mpj1hfJm951qz4rgp.gif"/> 
