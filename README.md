@@ -7,7 +7,7 @@ Aşşağıda ki görsele tıklayarak bana ulaşabilirsiniz.
 
 ![Profil Görüntülenme](https://komarev.com/ghpvc/?username=raviwen&color=red)&nbsp;
 [![Raviwen Github ](https://img.shields.io/github/followers/raviwen?label=follow&style=social)](https://github.com/raviwen)&nbsp;
-<a href="https://instagram.com/theraviwen">
+<a href="https://instagram.com/theraviwen"><img src="https://img.shields.io/badge/@theraviwen-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 # İlgilerim:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
