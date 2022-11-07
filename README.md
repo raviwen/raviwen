@@ -1,15 +1,13 @@
-
-Aşşağıda ki görsele tıklayarak bana ulaşabilirsiniz.
-
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928091512535916565?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/928091512535916565)
-
-
-![Profil Görüntülenme](https://komarev.com/ghpvc/?username=raviwen&color=red)&nbsp;
+# Hı There , I'm Raviwen
+![profile count](https://komarev.com/ghpvc/?username=croesus2m&color=8b72ff)&nbsp;
 [![Raviwen Github ](https://img.shields.io/github/followers/raviwen?label=follow&style=social)](https://github.com/raviwen)&nbsp;
 <a href="https://instagram.com/theraviwen"><img src="https://img.shields.io/badge/@theraviwen-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-# İlgilerim:
+**Ücretli Bot İşlemleri İçin Discord Üzerinden İletişime Geçebilirsiniz.**
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928091512535916565?theme=darkt&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else)](https://discord.com/users/928091512535916565)
+
+# İlgilerim;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
