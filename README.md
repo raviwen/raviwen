@@ -1,7 +1,6 @@
 # Hı There , I'm Raviwen
 ![profile count](https://komarev.com/ghpvc/?username=raviwen&color=8b72ff)&nbsp;
 [![Raviwen Github ](https://img.shields.io/github/followers/raviwen?label=follow&style=social)](https://github.com/raviwen)&nbsp;
-<a href="https://instagram.com/theraviwen"><img src="https://img.shields.io/badge/@theraviwen-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 **Ücretli Bot İşlemleri İçin Discord Üzerinden İletişime Geçebilirsiniz.**
 
