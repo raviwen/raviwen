@@ -1,13 +1,20 @@
-# Hi There, I'm Raviwen! 👋
+# Merhaba, Ben Raviwen! 👋
 
-Welcome to my GitHub profile! I am passionate about **JavaScript development**, creating efficient **bots**, and contributing to **open-source projects**. Let's build something amazing together! 🚀
+GitHub profilime hoş geldiniz! **JavaScript geliştirme**, verimli **botlar** oluşturma ve **açık kaynak projelere** katkı sağlama konusunda tutkuluyum. Birlikte harika şeyler inşa edelim! 🚀
 
-[![Profile Views](https://komarev.com/ghpvc/?username=raviwen&color=8b72ff)](https://github.com/raviwen) 
-[![Follow Raviwen](https://img.shields.io/github/followers/raviwen?label=follow&style=social)](https://github.com/raviwen)
+[![Profil Görüntülenme Sayısı](https://komarev.com/ghpvc/?username=raviwen&color=8b72ff)](https://github.com/raviwen) 
+[![Raviwen'i Takip Et](https://img.shields.io/github/followers/raviwen?label=follow&style=social)](https://github.com/raviwen)
 
 ---
 
-## 👨‍💻 Technologies I Work With:
+## 🌐 Bot Satış Sitem:
+🔗 Bot hizmetlerim hakkında daha fazla bilgi almak ve sipariş vermek için:  
+👉 [Aquara.dev](https://aquara.dev/)  
+**Ücretli bot hizmetleri** ve projeler için web sitemi ziyaret edebilirsiniz. Her türlü bot ihtiyacınızda yanınızdayım!
+
+---
+
+## 👨‍💻 Kullandığım Teknolojiler:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -17,31 +24,32 @@ Welcome to my GitHub profile! I am passionate about **JavaScript development**, 
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub İstatistiklerim:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raviwen&count_private=true&show_icons=true&theme=radical&hide_border=true" width="%100" height="150px" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raviwen&count_private=true&show_icons=true&theme=radical&hide_border=true" width="%100" height="150px" alt="GitHub istatistiklerim" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviwen&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📫 How to reach me:
+## 📫 Bana Ulaşın:
 
-- Discord: [Contact Me](https://discord.com/users/928091512535916565)
+- Discord: [Bana Ulaşın](https://discord.com/users/928091512535916565)
 - GitHub: [Raviwen](https://github.com/raviwen)
+- Web Sitem: [Aquara.dev](https://aquara.dev/)
 
 ---
 
-## 🌟 Quote of the Day:
-> "The only way to do great work is to love what you do." - Steve Jobs
+## 🌟 Günün Sözü:
+> "Büyük işler başarmanın tek yolu yaptığınız işi sevmektir." - Steve Jobs
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Başarılarım:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raviwen&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
-## 🔥 My Streak:
+## 🔥 GitHub Serilerim:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviwen&theme=radical&hide_border=true" alt="My Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviwen&theme=radical&hide_border=true" alt="GitHub Serilerim" />
 </p>
